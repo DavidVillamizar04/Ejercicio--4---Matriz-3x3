@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\Universidad\Semestre 2\Fundamentos de programacion\Actividad 2\Ejercicio #4 - Matriz 3x3\Matriz_3x3\bin\Debug\net8.0\Matriz_3x3.exe
+C:\Users\LENOVO\Desktop\Universidad\Semestre 2\Fundamentos de programacion\Actividad 2\Ejercicio #4 - Matriz 3x3\Matriz_3x3\bin\Debug\net8.0\Matriz_3x3.deps.json
+C:\Users\LENOVO\Desktop\Universidad\Semestre 2\Fundamentos de programacion\Actividad 2\Ejercicio #4 - Matriz 3x3\Matriz_3x3\bin\Debug\net8.0\Matriz_3x3.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Universidad\Semestre 2\Fundamentos de programacion\Actividad 2\Ejercicio #4 - Matriz 3x3\Matriz_3x3\bin\Debug\net8.0\Matriz_3x3.dll
+C:\Users\LENOVO\Desktop\Universidad\Semestre 2\Fundamentos de programacion\Actividad 2\Ejercicio #4 - Matriz 3x3\Matriz_3x3\bin\Debug\net8.0\Matriz_3x3.pdb
+C:\Users\LENOVO\Desktop\Universidad\Semestre 2\Fundamentos de programacion\Actividad 2\Ejercicio #4 - Matriz 3x3\Matriz_3x3\obj\Debug\net8.0\Matriz_3x3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Universidad\Semestre 2\Fundamentos de programacion\Actividad 2\Ejercicio #4 - Matriz 3x3\Matriz_3x3\obj\Debug\net8.0\Matriz_3x3.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Universidad\Semestre 2\Fundamentos de programacion\Actividad 2\Ejercicio #4 - Matriz 3x3\Matriz_3x3\obj\Debug\net8.0\Matriz_3x3.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Universidad\Semestre 2\Fundamentos de programacion\Actividad 2\Ejercicio #4 - Matriz 3x3\Matriz_3x3\obj\Debug\net8.0\Matriz_3x3.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Universidad\Semestre 2\Fundamentos de programacion\Actividad 2\Ejercicio #4 - Matriz 3x3\Matriz_3x3\obj\Debug\net8.0\Matriz_3x3.sourcelink.json
+C:\Users\LENOVO\Desktop\Universidad\Semestre 2\Fundamentos de programacion\Actividad 2\Ejercicio #4 - Matriz 3x3\Matriz_3x3\obj\Debug\net8.0\Matriz_3x3.dll
+C:\Users\LENOVO\Desktop\Universidad\Semestre 2\Fundamentos de programacion\Actividad 2\Ejercicio #4 - Matriz 3x3\Matriz_3x3\obj\Debug\net8.0\refint\Matriz_3x3.dll
+C:\Users\LENOVO\Desktop\Universidad\Semestre 2\Fundamentos de programacion\Actividad 2\Ejercicio #4 - Matriz 3x3\Matriz_3x3\obj\Debug\net8.0\Matriz_3x3.pdb
+C:\Users\LENOVO\Desktop\Universidad\Semestre 2\Fundamentos de programacion\Actividad 2\Ejercicio #4 - Matriz 3x3\Matriz_3x3\obj\Debug\net8.0\Matriz_3x3.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\Universidad\Semestre 2\Fundamentos de programacion\Actividad 2\Ejercicio #4 - Matriz 3x3\Matriz_3x3\obj\Debug\net8.0\ref\Matriz_3x3.dll
